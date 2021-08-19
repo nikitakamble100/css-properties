@@ -23,10 +23,10 @@ Notepad/TextEdit - This is about as basic as you can get. It's totally okay if y
 
 
 
-##Tag Structure
+## Tag Structure
 
 
-There is a barebones HTML page, about as simple as you can get. You can open it up in the 1 - Structure folder in the file part1.html. If you were to open the file in your favorite browser (which you can do, go ahead), you'll see a plain webpage with the title "My Website" and the words, "Hello, World!" written on the page.
+There is a barebones HTML page, about as simple as you can get. You can open it up in the 1 - Structure folder in the file part1.html. If you were to open the file in your favorite browser, you'll see a plain webpage with the title "My Website" and the words, "Hello, World!" written on the page.
 
 ```bash
   <!doctype html>
