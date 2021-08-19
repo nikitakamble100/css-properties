@@ -21,7 +21,9 @@ Notepad/TextEdit - This is about as basic as you can get. It's totally okay if y
 [Notepad++](http://notepad-plus-plus.org/) - This is just one step up from Notepad. But it's pretty dece. Code highlighting is in it, and nothing else too fancy, which is what I like about it.
 
 
-## HTML Tag Structure
+
+
+##Tag Structure
 
 
 There is a barebones HTML page, about as simple as you can get. You can open it up in the 1 - Structure folder in the file part1.html. If you were to open the file in your favorite browser (which you can do, go ahead), you'll see a plain webpage with the title "My Website" and the words, "Hello, World!" written on the page.
@@ -39,9 +41,6 @@ There is a barebones HTML page, about as simple as you can get. You can open it 
 	</body>
 </html>
 ```
-So, what are we looking at here? HTML, short for HyperText Markup Language, consists of these things called tags, which are words written between < and > characters, like <sometag>. All tags  have a matching closing tag, which has the same name as the opening tag, except that it contains / after the first <, like </sometag>.
-
-For example, <html> is one tag and the closing tag for it is </html>, same with <head> and </head> and <body> and </body>, and so on. You get it. The opening and closing tags together are an element (which also includes everything written in it). For example, <title>My Website</title> is one element. The text inside an element, in the title case, My Website, is called the content of an element.
 
 Tags organize your page and tell the browser what your page consists of. There's tons of tags out there, some that you may never use.
 Here's some lists of tags if you really care to see all of them at this point:
