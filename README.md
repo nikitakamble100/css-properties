@@ -19,6 +19,8 @@ Notepad/TextEdit - This is about as basic as you can get. It's totally okay if y
 [Glitch](https://glitch.com/) - This is another in-browser code editor. It is meant for larger projects, but it's nice to not have to download anything!
 
 [Notepad++](http://notepad-plus-plus.org/) - This is just one step up from Notepad. But it's pretty dece. Code highlighting is in it, and nothing else too fancy, which is what I like about it.
+
+
 ## HTML Tag Structure
 
 
